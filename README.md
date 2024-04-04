@@ -1,0 +1,1 @@
+# cc-ansible-1.0
